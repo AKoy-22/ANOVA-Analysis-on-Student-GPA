@@ -1,0 +1,151 @@
+ID,Living,CellPhone,CellMinutes,CreditCard,Balance,GPA,WorkHrs,IdealChild,ParentsChild,CarAge,JobMkt,Politics,Religious,LanguageSkill,Newspaper,Textbook,UsedElectronic?,PreferElecronic?,PCAccess,OpSystem,Linux?,iPod?
+1,Dorm,Verizon,179,Visa,194.85,1.9,20,2,6,0,6,3.4,35,None,Never,Other student,0,1.53,Always,Windows,What's Linux?,iPod only
+2,Dorm,Verizon,400,Visa,700,3.6,10,3,3,3,6.3,2.03,1,Moderate,Regularly,Campus store,0,1.8,Always,Windows,Yes,Neither
+3,Dorm,Cingular,1000,Discover,70,2.7,0,2,3,5,6.1,2.73,10,Slight,Occasionally,Other student,0,1.3,Always,Windows,No,iPod only
+4,Dorm,Cingular,300,Amex,200,3.7,0,2,2,3,5.5,3.23,0,Moderate,Regularly,Campus store,0,2.13,Always,Windows,What's Linux?,iPod only
+5,Dorm,Sprint,700,Mastercard,200,3.53,2,2,3,6,6.13,2.5,0,Moderate,Occasionally,Campus store,0,4.6,Often,Mac,Yes,MP3 only
+6,Share Apt,Verizon,1,Mastercard,2000,2.4,0,6,2,7,5.07,2.47,1,Moderate,Occasionally,Other retail,0,4,Always,Mac,Yes,Both
+7,Dorm,Other,300,Visa,500,3.55,0,2,2,4,5.57,4,0,Slight,Occasionally,Campus store,0,1,Always,Windows,No,Both
+8,Dorm,T-Mobile,400,Visa,700,2.9,15,4,4,8,5.77,3.97,4,Moderate,Never,On-line,1,5.43,Always,Windows,No,iPod only
+9,Dorm,Alltel,400,Visa,0,3.07,10,2,2,14,6.73,1.5,10,None,Occasionally,Other retail,0,1.03,Always,Windows,No,Neither
+10,Dorm,Verizon,843,Amex,190.52,3.62,16,2,2,5,5.57,6.17,20,Slight,Occasionally,On-line,0,2.27,Always,Mac,Yes,iPod only
+11,Other,Verizon,250,Visa,1000,3.3,10,2,2,10,6,5.43,5,Moderate,Occasionally,Campus store,0,2.07,Always,Windows,No,iPod only
+12,Dorm,Other,20,Visa,700,2.3,0,2,3,10,5.6,3,0,Slight,Regularly,On-line,0,4,Rarely,Windows,Yes,iPod only
+13,Dorm,Verizon,500,Visa,200,3.244,0,2,2,3,4,5.47,0,None,Occasionally,Campus store,1,1.03,Rarely,Windows,No,MP3 only
+14,Solo Apt,Verizon,100,Visa,890,3.24,0,2,2,4,4.7,6,0,Fluent,Occasionally,Campus store,0,2,Always,Mac,No,iPod only
+15,Dorm,T-Mobile,1600,Mastercard,450,3.2,0,4,3,6,6.3,3.27,30,Fluent,Never,Campus store,0,1.03,Always,Windows,No,iPod only
+16,Dorm,Verizon,650,Visa,12000,3.3,0,3,4,3,6.1,3.73,10,None,Regularly,Campus store,0,1.1,Often,Mac,What's Linux?,iPod only
+17,Dorm,Other,1000,Visa,250,3.4,0,2,2,13,5.1,6.03,0,Slight,Occasionally,Campus store,0,4,Always,Windows,No,iPod only
+18,Dorm,Verizon,340,Visa,600,2.58,0,2,2,2,6.2,6.1,2,Fluent,Occasionally,Campus store,0,4,Always,Windows,Yes,iPod only
+19,Parents,Sprint,1100,Mastercard,0,3.821,12,2,2,16,6.53,5.5,0,Fluent,Occasionally,Campus store,1,4.53,Rarely,Windows,What's Linux?,Neither
+20,Dorm,Verizon,50,Visa,100,3.86,0,3,3,8,6.13,4,0,Moderate,Occasionally,Campus store,0,2,Always,Windows,No,iPod only
+21,Dorm,Verizon,200,Mastercard,200,3.1,0,2,2,10,4.27,5.37,5,Moderate,Occasionally,Other student,0,2.7,Always,Windows,No,MP3 only
+22,Dorm,Cingular,500,Visa,300,2.6,7,3,4,1,5.5,2.27,20,Moderate,Occasionally,Other retail,0,2.9,Always,Mac,What's Linux?,iPod only
+23,Dorm,Verizon,1500,Visa,200,3.3,0,2,2,7,6.13,1.03,47,Moderate,Never,Campus store,0,4.03,Always,Windows,No,Both
+24,Share Apt,Verizon,300,Visa,1000,3.5,2,3,2,2,4,3,1,Slight,Occasionally,Campus store,0,4,Never,Windows,What's Linux?,iPod only
+25,Dorm,Cingular,1000,Visa,350,2.9,0,2,2,4,6.13,4.03,1,Slight,Occasionally,Other retail,0,2.07,Always,Windows,What's Linux?,iPod only
+26,Dorm,Cingular,350,Visa,200,4,0,0,2,14,6.03,4,0,Slight,Never,Campus store,1,4,Never,Windows,No,MP3 only
+27,Dorm,Verizon,500,Visa,300,3.23,0,2,3,7,6.07,5.1,30,Slight,Occasionally,Campus store,0,4.1,Never,Windows,No,iPod only
+28,Dorm,Cingular,400,Visa,37.06,3.1,10,2,2,7,6.43,1.57,52,Moderate,Regularly,Campus store,0,1.5,Always,Mac,No,iPod only
+29,Dorm,Verizon,300,Visa,100,3.1,0,3,3,10,4.9,2,25,Slight,Occasionally,Campus store,0,6,Always,Windows,No,iPod only
+30,Dorm,Alltel,100,Visa,17.45,3.55,10,3,3,8,4.63,4.63,15,Slight,Occasionally,On-line,0,1.3,Always,Mac,No,iPod only
+31,Dorm,Verizon,100,Visa,258,3.6,0,2,3,10,5.53,6.9,20,Slight,Occasionally,Campus store,0,3.43,Always,Windows,What's Linux?,iPod only
+32,Dorm,Verizon,500,Visa,23,2.5,20,3,2,7,3.3,2.43,20,Slight,Occasionally,Campus store,0,3.67,Never,Windows,What's Linux?,Both
+33,Dorm,Cingular,500,Visa,100,2.8,0,2,2,6,6,2,5,Fluent,Occasionally,Other retail,0,2.03,Always,Windows,No,iPod only
+34,Dorm,Verizon,500,Visa,289,2.89,7,3,3,9,5.8,4.87,2,Slight,Occasionally,On-line,1,2.47,Always,Windows,No,iPod only
+35,Other,Other,15000,Other,10000,2.2,0,8,10,80,1,4,0,Slight,Never,No book,0,4,Never,Other,What's Linux?,Neither
+36,Share Apt,Cingular,1500,Visa,678,3.6,0,2,1,4,5.97,3.37,0,Moderate,Occasionally,Other retail,0,4.93,Always,Windows,What's Linux?,iPod only
+37,Dorm,Verizon,700,Visa,600,2.319,0,3,2,2,6.27,5.83,5,Fluent,Never,Campus store,0,1,Always,Windows,What's Linux?,iPod only
+38,Dorm,Cingular,3000,Mastercard,220,2.9,0,3,3,11,5.53,3.17,0,Moderate,Occasionally,Campus store,0,6.03,Never,Windows,What's Linux?,iPod only
+39,Dorm,T-Mobile,600,Visa,80,2.6,20,2,3,6,6,2,3,Slight,Occasionally,Campus store,1,5,Always,Windows,No,iPod only
+40,Dorm,Verizon,560,Visa,843,2.76,0,3,3,3,6.33,2.7,0,None,Occasionally,Campus store,1,1.17,Always,Windows,What's Linux?,MP3 only
+41,Dorm,Cingular,200,Visa,0,4,0,2,2,3,3.6,4.37,6,Slight,Occasionally,Campus store,1,2.13,Always,Mac,No,iPod only
+42,Solo Apt,Verizon,1000,Mastercard,4000,3.3,45,3,4,6,6.8,2.17,52,Slight,Regularly,Campus store,0,2.2,Never,Windows,Yes,Neither
+43,Share Apt,Cingular,300,Amex,200,3.6,0,2,3,31,6,1.47,20,Moderate,Regularly,Campus store,0,2,Always,Windows,No,iPod only
+44,Solo Apt,Other,5,Mastercard,0,4,60,5,5,1,4.07,5.1,2,None,Regularly,No book,1,4.1,Never,Windows,No,iPod only
+45,Dorm,Cingular,600,Visa,800,2.8,15,3,5,8,5.8,5.17,0,Slight,Occasionally,Campus store,0,7,Always,Windows,What's Linux?,iPod only
+46,Dorm,T-Mobile,100,Visa,37.5,3.5,0,2,2,12,5.87,5.53,20,Moderate,Occasionally,Campus store,0,3.23,Always,Windows,What's Linux?,iPod only
+47,Dorm,Cingular,290,Visa,100,2.7,0,2,2,11,6.9,3.9,10,Moderate,Occasionally,Campus store,0,2.13,Never,Windows,No,iPod only
+48,Dorm,T-Mobile,500,Visa,758,1.6,0,2,2,3,5.53,4.63,15,Slight,Occasionally,Campus store,1,5.17,Always,Mac,What's Linux?,iPod only
+49,Dorm,Cingular,60,Visa,0,3.382,0,2,3,15,5.87,4.07,0,Moderate,Occasionally,On-line,0,4.1,Rarely,Windows,Yes,Neither
+50,Share Apt,Cingular,600,Visa,17,3.3,0,3,4,2,5.23,5.07,3,Moderate,Never,Campus store,0,1.9,Always,Mac,No,Neither
+51,Dorm,Verizon,1000,Visa,300,3,0,2,2,5,6.17,2.33,10,None,Occasionally,Campus store,0,1.67,Rarely,Windows,No,iPod only
+52,Dorm,T-Mobile,1200,Visa,200,3.4,14.5,3,3,10,5.97,5.53,15,Moderate,Occasionally,Campus store,0,2,Always,Windows,No,iPod only
+53,Dorm,Cingular,6,Visa,100,3.15,0,3,3,7,6.13,2.03,3,None,Occasionally,Campus store,0,1.97,Never,Windows,No,iPod only
+54,Dorm,Cingular,500,Visa,200,3.37,0,2,2,12,5.03,4.97,0,Moderate,Occasionally,Campus store,0,4.83,Always,Windows,What's Linux?,iPod only
+55,Dorm,Alltel,2000,Visa,0,3.8,0,2,1,2,4.7,4.97,0,Slight,Occasionally,Campus store,1,4.77,Always,Windows,Yes,iPod only
+56,Dorm,T-Mobile,150,Visa,50,3,10,2,3,3,6.07,2.37,0,Fluent,Occasionally,Campus store,0,1.3,Always,Windows,No,iPod only
+57,Dorm,Cingular,400,Visa,1300,3.2,0,4,2,9,5.87,2.8,3,Slight,Occasionally,Campus store,0,1.6,Always,Windows,No,iPod only
+58,Solo Apt,Verizon,260,Visa,900,3.67,17,2,2,7,5.6,2.13,1,None,Regularly,Campus store,0,1.5,Always,Windows,Yes,iPod only
+59,Parents,Verizon,500,Visa,200,3.5,25,3,5,1,6.17,1,30,None,Regularly,Campus store,0,5,Always,Windows,No,Neither
+60,Dorm,Nextel,100,None,0,3.67,30,3,4,11,6.47,4.03,25,Slight,Never,On-line,0,3.7,Always,Windows,What's Linux?,Neither
+61,Parents,T-Mobile,664,Visa,549,2.9,30,1,1,11,6,5.47,0,None,Regularly,Campus store,0,2,Always,Mac,Yes,MP3 only
+62,Parents,Sprint,800,Discover,1200,3,30,3,4,0.2,6.1,4,0,Slight,Occasionally,Campus store,0,3.03,Often,Windows,No,iPod only
+63,Share Apt,Verizon,340,Visa,146,3.3,0,2,2,2,4.83,6.27,0,Moderate,Occasionally,Campus store,0,3.07,Always,Windows,No,iPod only
+64,Solo Apt,Verizon,1842,Amex,2856.25,2.74,40,2,4,3,6.4,3.53,1,Slight,Never,Other retail,0,2.83,Always,Windows,No,iPod only
+65,Solo Apt,Verizon,250,Visa,684.44,3.4,0,3,1,2.5,7,3,10,Slight,Occasionally,Campus store,1,7,Always,Windows,No,iPod only
+66,Parents,Virgin,100,Visa,0,3,0,3,3,2,6,3,20,None,Occasionally,Campus store,0,2,Never,Windows,No,Neither
+67,Parents,Nextel,220,Visa,951,3.67,0,2,4,2,5.93,1.47,4,Moderate,Occasionally,On-line,0,2.23,Never,Windows,What's Linux?,Neither
+68,Share Apt,Verizon,1000,Visa,600,3.8,30,3,3,7,3.13,2.63,50,Moderate,Occasionally,Other retail,1,6,Always,Windows,What's Linux?,Neither
+69,Parents,Cingular,500,Visa,150,3.4,25,3,3,11,7,3,1,Fluent,Never,Campus store,0,3,Never,Windows,What's Linux?,iPod only
+70,Parents,Verizon,500,Mastercard,253,3.35,25,2,1,1,2.47,4.87,2,None,Occasionally,Other student,0,4.23,Never,Windows,No,Neither
+71,Parents,Cingular,200,Visa,2000,3.09,15,2,1,3.5,5.6,5.5,5,None,Occasionally,Other retail,0,6.77,Never,Windows,No,iPod only
+72,Share Apt,Verizon,100,Mastercard,0,3.2,35,3,2,8,5.5,2.47,2,Slight,Regularly,On-line,0,5,Never,Windows,No,MP3 only
+73,Dorm,Cingular,500,Visa,400,2.85,0,2,2,0,5.63,4.43,0,Fluent,Occasionally,Other retail,1,2.8,Often,Windows,What's Linux?,iPod only
+74,Dorm,Verizon,950,Visa,200,3.4,0,2,2,5,5.27,1.9,3,Moderate,Occasionally,Campus store,0,1.2,Always,Windows,What's Linux?,iPod only
+75,Dorm,Cingular,250,Visa,500,2.76,0,3,4,10,5.53,4.43,2,Slight,Occasionally,Other retail,1,6.67,Always,Windows,What's Linux?,iPod only
+76,Dorm,T-Mobile,100,Visa,198,3.95,0,2,2,10,6.27,3.17,55,Fluent,Occasionally,Campus store,0,2,Always,Windows,What's Linux?,iPod only
+77,Dorm,Verizon,1800,Visa,700,2.8,0,3,3,1,5.3,3.97,4,Slight,Occasionally,Campus store,0,2.73,Always,Mac,No,iPod only
+78,Share Apt,Cingular,350,Mastercard,80,3.15,0,2,3,15,6,4,2,Moderate,Occasionally,Campus store,0,5.57,Always,Windows,No,iPod only
+79,Dorm,Verizon,900,Visa,500,3.4,0,2,2,0,6.2,5.83,0,None,Never,Campus store,0,4.1,Never,Mac,What's Linux?,iPod only
+80,Dorm,Verizon,450,Visa,44.48,4,6,2,2,12,6.2,4.6,0,Fluent,Regularly,On-line,0,1.13,Always,Windows,No,iPod only
+81,Share Apt,T-Mobile,500,Visa,0,3.56,27,2,2,12,5.97,4.97,10,Fluent,Never,Campus store,0,3.43,Always,Windows,What's Linux?,Both
+82,Dorm,T-Mobile,1524,Visa,391,2.9,15,4,4,5,5.43,4,4,Slight,Occasionally,On-line,1,5.7,Always,Windows,No,iPod only
+83,Dorm,Cingular,400,Visa,200,2.531,5,4,3,5,6.97,5.77,20,Slight,Occasionally,Campus store,0,1.37,Often,Mac,What's Linux?,iPod only
+84,Dorm,Cingular,800,Visa,2500,3.862,0,2,2,3,5.3,4.57,1,Moderate,Occasionally,Campus store,0,1.1,Always,Mac,What's Linux?,iPod only
+85,Dorm,T-Mobile,200,None,0,3.4,15,2,2,14,5.17,5.87,0,Fluent,Occasionally,On-line,1,4.93,Always,Windows,No,Both
+86,Share Apt,Verizon,500,Visa,300,3.2,0,3,3,1.5,5.67,5.33,2,Slight,Occasionally,Campus store,0,4.8,Always,Mac,No,iPod only
+87,Dorm,Sprint,300,Visa,750,3.6,0,3,3,1,5.5,4,2,None,Occasionally,Campus store,0,5,Always,Windows,No,iPod only
+88,Share Apt,Verizon,700,Visa,100,3.5,0,2,2,9,5.77,3.17,0,Slight,Occasionally,Campus store,0,4.03,Never,Windows,No,iPod only
+89,Parents,T-Mobile,90,Visa,500,2.45,25,3,3,6,6.97,5.97,2,Fluent,Occasionally,Other retail,0,3,Often,Windows,No,Neither
+90,Dorm,Verizon,450,Visa,100,3.8,0,3,3,8,6.5,4,15,Slight,Occasionally,Campus store,0,1.13,Always,Windows,What's Linux?,iPod only
+91,Dorm,Cingular,1500,Mastercard,100,3.29,0,2,1,34,6.07,4.4,40,Slight,Never,On-line,0,4.83,Always,Windows,Yes,iPod only
+92,Share Apt,Sprint,600,Mastercard,0,3.9,0,2,3,1,6.07,4.37,0,Fluent,Occasionally,On-line,0,4.87,Always,Windows,Yes,MP3 only
+93,Dorm,Cingular,600,Visa,0,3,0,2,2,6,5.1,5.43,5,Moderate,Occasionally,Other retail,0,3.07,Always,Windows,No,iPod only
+94,Dorm,Cingular,80,Mastercard,20,3.1,0,2,2,12,6.37,4.23,0,Slight,Never,Campus store,0,2.9,Always,Windows,No,iPod only
+95,Dorm,Cingular,500,Visa,120,3.65,12,2,2,10,5.87,5.87,40,Fluent,Occasionally,On-line,0,2.2,Always,Windows,What's Linux?,Neither
+96,Parents,Sprint,1000,Visa,1000,2.8,15,2,2,2,5.5,5.63,0,Slight,Never,Campus store,0,1.8,Often,Windows,No,Neither
+97,Dorm,Cingular,800,Visa,4000,3.4,0,3,1,5,5.73,3.17,2,Slight,Never,Campus store,0,2.7,Always,Mac,What's Linux?,iPod only
+98,Dorm,Cingular,300,Mastercard,300,3.2,9,2,2,15,5.97,1.93,5,Slight,Regularly,Campus store,0,3,Always,Windows,What's Linux?,Neither
+99,Dorm,Other,756,Visa,341.84,3,12,3,4,12,6.07,3.4,1,Slight,Occasionally,On-line,0,1.53,Always,Windows,What's Linux?,iPod only
+100,Dorm,Sprint,4280,Visa,1200,3.2,30,2,3,4,5.73,5.13,60,Moderate,Regularly,Campus store,0,1.93,Always,Windows,What's Linux?,Both
+101,Dorm,Cingular,300,Visa,100,2,0,2,2,3,5.6,2.07,5,Slight,Occasionally,Campus store,0,4.33,Always,Windows,No,iPod only
+102,Parents,Verizon,350,Amex,80,3.85,35,2,2,1,6.03,6,3,Fluent,Occasionally,Campus store,0,2,Always,Windows,Yes,MP3 only
+103,Share Apt,Cingular,1781,Visa,977.04,3.3,35,2,3,9,6,6,0,Moderate,Occasionally,Campus store,0,1,Always,Windows,What's Linux?,iPod only
+104,Dorm,Cingular,400,Visa,149.63,3.9,16,3,3,12,6,2,40,Moderate,Occasionally,Other retail,0,2,Always,Windows,What's Linux?,iPod only
+105,Dorm,Verizon,764,Amex,615.09,3.75,15,2,2,11,6.4,2.6,2,Moderate,Occasionally,Other student,0,1.97,Always,Windows,No,iPod only
+106,Dorm,Cingular,300,Visa,456.87,2.88,0,2,2,1,6.17,4,10,Moderate,Occasionally,Campus store,0,2.2,Always,Mac,Yes,Both
+107,Dorm,Verizon,450,Visa,70,2.85,0,2,2,7,4.5,4.83,0,Slight,Never,Campus store,0,3.13,Always,Windows,No,iPod only
+108,Dorm,Sprint,100,Visa,185,2.99,16,3,3,14,4.5,4,6,Moderate,Occasionally,On-line,0,2,Always,Windows,No,Both
+109,Share Apt,Verizon,1356,Mastercard,300,2,5,3,3,10,4,4.5,5,Moderate,Occasionally,Other retail,0,7,Always,Windows,Yes,iPod only
+110,Share Apt,T-Mobile,500,Visa,497.13,3.47,17,2,2,13,5.9,4.13,4,Moderate,Occasionally,On-line,1,5.13,Always,Windows,What's Linux?,iPod only
+111,Parents,Verizon,175,Visa,70,3.96,0,3,4,18,5,5.73,0,Slight,Occasionally,Other retail,1,4,Often,Windows,What's Linux?,MP3 only
+112,Dorm,Verizon,200,Visa,500,2.6,0,3,2,9,5.53,3,15,Slight,Never,Campus store,1,5.07,Always,Windows,What's Linux?,iPod only
+113,Parents,Cingular,500,Mastercard,556,3,27,2,1,4,4.97,5,2,Fluent,Occasionally,Other student,0,5.03,Rarely,Windows,No,MP3 only
+114,Share Apt,Cingular,700,Visa,378.9,3.6,0,3,1,10,6.3,2.17,45,Moderate,Never,Campus store,0,1.83,Always,Windows,No,iPod only
+115,Parents,T-Mobile,600,Amex,350,3.03,30,3,2,5,5,4,2,Fluent,Occasionally,Campus store,0,4.03,Never,Windows,No,iPod only
+116,Parents,Cingular,300,Mastercard,226.99,2.8,16,3,2,2,6.67,5.47,0,Slight,Regularly,Campus store,1,6.8,Never,Windows,No,Neither
+117,Share Apt,Cingular,150,Mastercard,0,3.6,8,3,4,0,4.47,1,40,Slight,Occasionally,Campus store,0,3.37,Always,Windows,Yes,Both
+118,Solo Apt,Sprint,300,Visa,15,3,40,2,2,1,4.47,3.33,20,Fluent,Occasionally,Other retail,1,2.53,Often,Windows,No,Neither
+119,Parents,Verizon,187,Mastercard,250,3.55,0,2,2,1,6.13,1.93,24,Slight,Regularly,Campus store,1,4.37,Always,Windows,No,Both
+120,Parents,Verizon,150,Mastercard,100,3.02,25,3,4,3,6,1,60,Slight,Occasionally,On-line,1,7,Rarely,Windows,What's Linux?,Neither
+121,Parents,Verizon,300,Visa,778,3.2,16,2,3,3,6.43,3.57,45,Slight,Occasionally,Campus store,0,6.93,Always,Windows,What's Linux?,Both
+122,Parents,Sprint,1600,Visa,932.76,3.5,35,2,2,5,4.57,2.33,30,Moderate,Occasionally,Campus store,0,4,Rarely,Windows,What's Linux?,iPod only
+123,Parents,Cingular,700,Mastercard,331.54,3.72,20,2,4,1,5.13,4.87,2,Moderate,Regularly,Campus store,1,1,Often,Windows,No,MP3 only
+124,Parents,Verizon,2585,Visa,224.01,2.67,20,2,3,9,6.23,4.9,10,None,Occasionally,On-line,1,2.1,Always,Windows,No,Neither
+125,Solo Apt,Cingular,500,Mastercard,2450,3.5,40,1,3,1,5,4,0,Moderate,Occasionally,Campus store,0,3,Always,Mac,No,iPod only
+126,Parents,Sprint,50,Visa,343.62,2.56,22,2,3,1,4.9,2.57,10,Slight,Occasionally,Campus store,0,5.9,Never,Windows,What's Linux?,Neither
+127,Parents,Verizon,3000,Visa,400,2.7,25,2,2,0,4.47,4,2,Slight,Occasionally,Campus store,0,2,Often,Windows,What's Linux?,MP3 only
+128,Parents,Verizon,1436,Visa,404.88,3.9,45,3,3,2,6.13,2.2,5,Moderate,Never,On-line,1,3.8,Always,Windows,What's Linux?,iPod only
+129,Parents,Verizon,443,Visa,187.47,2.2,40,3,2,7,5.67,1.53,0,Slight,Occasionally,No book,0,2.3,Never,Windows,What's Linux?,iPod only
+130,Parents,Cingular,300,Mastercard,150,3,27,3,4,1.5,5.77,1,12,Slight,Occasionally,Campus store,1,5.53,Always,Windows,No,MP3 only
+131,Share Apt,Nextel,987,Visa,50,3.3,0,2,2,8,3.97,5.03,6,Slight,Occasionally,On-line,1,3.97,Often,Windows,No,MP3 only
+132,Share Apt,Verizon,100,None,0,2.8,40,2,4,10,4.33,1.13,0,Slight,Regularly,Other student,0,5.17,Always,Windows,Yes,MP3 only
+133,Solo Apt,T-Mobile,200,Visa,760,3.68,20,2,4,7,4.47,4.77,1,Slight,Occasionally,Campus store,0,3.17,Never,Windows,What's Linux?,iPod only
+134,Parents,Sprint,300,Visa,936,2.61,28,3,3,8,6.03,5,10,Moderate,Regularly,On-line,0,5.03,Always,Windows,No,iPod only
+135,Parents,T-Mobile,400,Mastercard,5500,2.7,23,2,3,9,4.97,5.47,5,Fluent,Never,Campus store,0,6.97,Always,Windows,No,MP3 only
+136,Parents,Cingular,300,Visa,0,3.6,0,2,2,2,6.9,4.93,0,None,Never,On-line,0,2.23,Always,Windows,No,iPod only
+137,Dorm,T-Mobile,650,Mastercard,4321,2.5,12,4,3,11,5.17,3.53,4,Slight,Occasionally,Campus store,0,6.83,Always,Windows,No,Neither
+138,Parents,Cingular,1550,Visa,152.63,3.92,15,2,1,5,6,6,1,Fluent,Occasionally,On-line,0,5,Always,Windows,What's Linux?,iPod only
+139,Share Apt,Nextel,1250,Visa,6000,3,35,3,3,9,3.8,5.77,0,Fluent,Occasionally,Campus store,1,4.07,Never,Windows,What's Linux?,iPod only
+140,Parents,Verizon,1500,Visa,250,3.34,22,2,4,7,5.8,6.07,45,Fluent,Occasionally,On-line,0,5.37,Never,Windows,No,MP3 only
+141,Parents,Cingular,300,Visa,23,3.4,30,3,5,1,6.17,4.07,5,Slight,Occasionally,Campus store,0,5.87,Never,Windows,No,MP3 only
+142,Parents,Verizon,100,Visa,65,2.5,35,2,3,5,5.47,5.27,2,Slight,Occasionally,Campus store,0,3.57,Never,Windows,Yes,iPod only
+143,Parents,Sprint,500,Visa,725,3.15,25,2,2,9,6.13,5.93,1,None,Occasionally,Campus store,1,4.1,Rarely,Windows,No,iPod only
+144,Parents,Verizon,80,Visa,480,3.58,20,2,2,5,5.93,4,0,Moderate,Occasionally,Campus store,1,6,Never,Windows,No,MP3 only
+145,Parents,T-Mobile,1460,Visa,320,3.81,25,2,2,1,2,5.03,52,Slight,Never,Campus store,0,2,Always,Windows,No,iPod only
+146,Parents,Nextel,300,Visa,191.77,3.2,30,3,3,5,6.5,4.03,5,Slight,Occasionally,Campus store,0,6.13,Always,Windows,No,iPod only
+147,Parents,Verizon,300,Mastercard,460,2.8,18,2,2,6,6.97,4.03,52,Slight,Regularly,Other retail,1,7,Always,Mac,Yes,iPod only
+148,Parents,Verizon,1200,Visa,61,3.23,15,2,2,4,6,5,30,Slight,Occasionally,Campus store,0,2.57,Never,Windows,No,Neither
+149,Parents,T-Mobile,1200,Visa,826.07,2.86,30,2,2,4,3.97,4.8,0,Fluent,Occasionally,On-line,1,4,Always,Windows,What's Linux?,iPod only
+150,Share Apt,Verizon,1250,Visa,1395.23,2.4,30,2,2,4,6.53,4,20,None,Occasionally,On-line,0,1.03,Never,Windows,No,MP3 only

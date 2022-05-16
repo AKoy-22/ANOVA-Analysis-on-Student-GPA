@@ -1,0 +1,151 @@
+ID,Living,CellPhone,CellMinutes,CreditCard,Balance,GPA,WorkHrs,IdealChild,ParentsChild,CarAge,JobMkt,Politics,Religious,LanguageSkill,Newspaper,Textbook,UsedElectronic?,PreferElecronic,PCAccess,OpSystem,Linux,iPod
+1,Dorm,Verizon,short,Visa,Moderate,1.9,moderate,two,six,Very new,Good,somewhat conservative,very religious,None,Never,Other student,NO,Disagree,Always,Windows,What's Linux?,iPod only
+2,Dorm,Verizon,average,Visa,Very high ,3.6,moderate,three,three,New,Good,conservative,Not religious,Moderate,Regularly,Campus store,NO,Disagree,Always,Windows,Yes,Neither
+3,Dorm,Cingular,very long,Discover,Low,2.7,none,two,three,Fairly new,Good,somewhat conservative,religious,Slight,Occasionally,Other student,NO,Strongly Agree,Always,Windows,No,iPod only
+4,Dorm,Cingular,average,Amex,Moderate,3.7,none,two,two,New,Good,somewhat conservative,Not religious,Moderate,Regularly,Campus store,NO,Disagree,Always,Windows,What's Linux?,iPod only
+5,Dorm,Sprint,long ,Mastercard,Moderate,3.53,short,two,three,Fairly old,Good,somewhat conservative,Not religious,Moderate,Occasionally,Campus store,NO,Somewhat agree,Often,Mac,Yes,MP3 only
+6,Share Apt,Verizon,very short,Mastercard,Very high ,2.4,none,six,two,Fairly old,Somewhat good,conservative,Not religious,Moderate,Occasionally,Other retail,NO,Neither,Always,Mac,Yes,Both
+7,Dorm,Other,average,Visa,High ,3.55,none,two,two,Fairly new,Good,neither,Not religious,Slight,Occasionally,Campus store,NO,Strongly Agree,Always,Windows,No,Both
+8,Dorm,T-Mobile,average,Visa,Very high ,2.9,moderate,four,four,Old,Good,neither,somewhat religious,Moderate,Never,On-line,YES,Somewhat agree,Always,Windows,No,iPod only
+9,Dorm,Alltel,average,Visa,None,3.07,moderate,two,two,Very Old,Very good,conservative,religious,None,Occasionally,Other retail,NO,Strongly Agree,Always,Windows,No,Neither
+10,Dorm,Verizon,very long,Amex,Moderate,3.62,moderate,two,two,Fairly new,Good,liberal,very religious,Slight,Occasionally,On-line,NO,Disagree,Always,Mac,Yes,iPod only
+11,Other,Verizon,short,Visa,Very high ,3.3,moderate,two,two,Old,Good,somewhat liberal,religious,Moderate,Occasionally,Campus store,NO,Disagree,Always,Windows,No,iPod only
+12,Dorm,Other,very short,Visa,Very high ,2.3,none,two,three,Old,Good,somewhat conservative,Not religious,Slight,Regularly,On-line,NO,Neither,Rarely,Windows,Yes,iPod only
+13,Dorm,Verizon,long ,Visa,Moderate,3.244,none,two,two,New,Neither,somewhat liberal,Not religious,None,Occasionally,Campus store,YES,Strongly Agree,Rarely,Windows,No,MP3 only
+14,Solo Apt,Verizon,short,Visa,Very high ,3.24,none,two,two,Fairly new,Somewhat good,liberal,Not religious,Fluent,Occasionally,Campus store,NO,Disagree,Always,Mac,No,iPod only
+15,Dorm,T-Mobile,very long,Mastercard,High ,3.2,none,four,three,Fairly old,Good,somewhat conservative,very religious,Fluent,Never,Campus store,NO,Strongly Agree,Always,Windows,No,iPod only
+16,Dorm,Verizon,long ,Visa,Very high ,3.3,none,three,four,New,Good,neither,religious,None,Regularly,Campus store,NO,Strongly Agree,Often,Mac,What's Linux?,iPod only
+17,Dorm,Other,very long,Visa,Moderate,3.4,none,two,two,Very Old,Somewhat good,liberal,Not religious,Slight,Occasionally,Campus store,NO,Neither,Always,Windows,No,iPod only
+18,Dorm,Verizon,average,Visa,High ,2.58,none,two,two,New,Good,liberal,somewhat religious,Fluent,Occasionally,Campus store,NO,Neither,Always,Windows,Yes,iPod only
+19,Parents,Sprint,very long,Mastercard,None,3.821,moderate,two,two,Very Old,Very good,liberal,Not religious,Fluent,Occasionally,Campus store,YES,Somewhat agree,Rarely,Windows,What's Linux?,Neither
+20,Dorm,Verizon,very short,Visa,Moderate,3.86,none,three,three,Old,Good,neither,Not religious,Moderate,Occasionally,Campus store,NO,Disagree,Always,Windows,No,iPod only
+21,Dorm,Verizon,short,Mastercard,Moderate,3.1,none,two,two,Old,Neither,somewhat liberal,religious,Moderate,Occasionally,Other student,NO,Somehwhat agree,Always,Windows,No,MP3 only
+22,Dorm,Cingular,long ,Visa,High ,2.6,short,three,four,Very new,Good,conservative,very religious,Moderate,Occasionally,Other retail,NO,Somehwhat agree,Always,Mac,What's Linux?,iPod only
+23,Dorm,Verizon,very long,Visa,Moderate,3.3,none,two,two,Fairly old,Good,very conservative,very religious,Moderate,Never,Campus store,NO,Neither,Always,Windows,No,Both
+24,Share Apt,Verizon,average,Visa,Very high ,3.5,short,three,two,New,Neither,somewhat conservative,Not religious,Slight,Occasionally,Campus store,NO,Neither,Never,Windows,What's Linux?,iPod only
+25,Dorm,Cingular,very long,Visa,High ,2.9,none,two,two,Fairly new,Good,neither,Not religious,Slight,Occasionally,Other retail,NO,Disagree,Always,Windows,What's Linux?,iPod only
+26,Dorm,Cingular,average,Visa,Moderate,4,none,nine,two,Very Old,Good,neither,Not religious,Slight,Never,Campus store,YES,Neither,Never,Windows,No,MP3 only
+27,Dorm,Verizon,long ,Visa,High ,3.23,none,two,three,Fairly old,Good,somewhat liberal,very religious,Slight,Occasionally,Campus store,NO,Neither,Never,Windows,No,iPod only
+28,Dorm,Cingular,average,Visa,Low,3.1,moderate,two,two,Fairly old,Good,conservative,very religious,Moderate,Regularly,Campus store,NO,Disagree,Always,Mac,No,iPod only
+29,Dorm,Verizon,average,Visa,Moderate,3.1,none,three,three,Old,Somewhat good,conservative,very religious,Slight,Occasionally,Campus store,NO,Agree,Always,Windows,No,iPod only
+30,Dorm,Alltel,short,Visa,Low,3.55,moderate,three,three,Old,Somewhat good,somewhat liberal,very religious,Slight,Occasionally,On-line,NO,Strongly Agree,Always,Mac,No,iPod only
+31,Dorm,Verizon,short,Visa,High ,3.6,none,two,three,Old,Good,very liberal,very religious,Slight,Occasionally,Campus store,NO,Somehwhat agree,Always,Windows,What's Linux?,iPod only
+32,Dorm,Verizon,long ,Visa,Low,2.5,moderate,three,two,Fairly old,Somewhat bad,conservative,very religious,Slight,Occasionally,Campus store,NO,Neither,Never,Windows,What's Linux?,Both
+33,Dorm,Cingular,long ,Visa,Moderate,2.8,none,two,two,Fairly old,Good,conservative,religious,Fluent,Occasionally,Other retail,NO,Disagree,Always,Windows,No,iPod only
+34,Dorm,Verizon,long ,Visa,High ,2.89,short,three,three,Old,Good,somewhat liberal,somewhat religious,Slight,Occasionally,On-line,YES,Disagree,Always,Windows,No,iPod only
+35,Other,Other,very long,Other,Very high ,2.2,none,eight,ten,Very Old,Very bad,neither,Not religious,Slight,Never,No book,NO,Neither,Never,Other,What's Linux?,Neither
+36,Share Apt,Cingular,very long,Visa,High ,3.6,none,two,one,Fairly new,Good,somewhat conservative,Not religious,Moderate,Occasionally,Other retail,NO,Somewhat agree,Always,Windows,What's Linux?,iPod only
+37,Dorm,Verizon,long ,Visa,High ,2.319,none,three,two,New,Good,liberal,religious,Fluent,Never,Campus store,NO,Strongly Agree,Always,Windows,What's Linux?,iPod only
+38,Dorm,Cingular,very long,Mastercard,Moderate,2.9,none,three,three,Very Old,Good,somewhat conservative,Not religious,Moderate,Occasionally,Campus store,NO,Agree,Never,Windows,What's Linux?,iPod only
+39,Dorm,T-Mobile,long ,Visa,Low,2.6,moderate,two,three,Fairly old,Good,conservative,somewhat religious,Slight,Occasionally,Campus store,YES,Somewhat agree,Always,Windows,No,iPod only
+40,Dorm,Verizon,long ,Visa,Very high ,2.76,none,three,three,New,Good,somewhat conservative,Not religious,None,Occasionally,Campus store,YES,Strongly Agree,Always,Windows,What's Linux?,MP3 only
+41,Dorm,Cingular,short,Visa,None,4,none,two,two,New,Neither,neither,religious,Slight,Occasionally,Campus store,YES,Disagree,Always,Mac,No,iPod only
+42,Solo Apt,Verizon,very long,Mastercard,Very high ,3.3,long,three,four,Fairly old,Very good,conservative,very religious,Slight,Regularly,Campus store,NO,Disagree,Never,Windows,Yes,Neither
+43,Share Apt,Cingular,average,Amex,Moderate,3.6,none,two,three,Very Old,Good,very conservative,very religious,Moderate,Regularly,Campus store,NO,Disagree,Always,Windows,No,iPod only
+44,Solo Apt,Other,very short,Mastercard,None,4,long,five ,five ,Very new,Neither,somewhat liberal,somewhat religious,None,Regularly,No book,YES,Neither,Never,Windows,No,iPod only
+45,Dorm,Cingular,long ,Visa,Very high ,2.8,moderate,three,five ,Old,Good,somewhat liberal,Not religious,Slight,Occasionally,Campus store,NO,Strongly Agree,Always,Windows,What's Linux?,iPod only
+46,Dorm,T-Mobile,short,Visa,Low,3.5,none,two,two,Very Old,Good,liberal,very religious,Moderate,Occasionally,Campus store,NO,Somehwhat agree,Always,Windows,What's Linux?,iPod only
+47,Dorm,Cingular,short,Visa,Moderate,2.7,none,two,two,Very Old,Very good,neither,religious,Moderate,Occasionally,Campus store,NO,Disagree,Never,Windows,No,iPod only
+48,Dorm,T-Mobile,long ,Visa,Very high ,1.6,none,two,two,New,Good,somewhat liberal,very religious,Slight,Occasionally,Campus store,YES,Somewhat agree,Always,Mac,What's Linux?,iPod only
+49,Dorm,Cingular,very short,Visa,None,3.382,none,two,three,Very Old,Good,neither,Not religious,Moderate,Occasionally,On-line,NO,Neither,Rarely,Windows,Yes,Neither
+50,Share Apt,Cingular,long ,Visa,Low,3.3,none,three,four,New,Somewhat good,somewhat liberal,somewhat religious,Moderate,Never,Campus store,NO,Disagree,Always,Mac,No,Neither
+51,Dorm,Verizon,very long,Visa,High ,3,none,two,two,Fairly new,Good,conservative,religious,None,Occasionally,Campus store,NO,Disagree,Rarely,Windows,No,iPod only
+52,Dorm,T-Mobile,very long,Visa,Moderate,3.4,moderate,three,three,Old,Good,liberal,very religious,Moderate,Occasionally,Campus store,NO,Disagree,Always,Windows,No,iPod only
+53,Dorm,Cingular,very short,Visa,Moderate,3.15,none,three,three,Fairly old,Good,conservative,somewhat religious,None,Occasionally,Campus store,NO,Disagree,Never,Windows,No,iPod only
+54,Dorm,Cingular,long ,Visa,Moderate,3.37,none,two,two,Very Old,Somewhat good,somewhat liberal,Not religious,Moderate,Occasionally,Campus store,NO,Somewhat agree,Always,Windows,What's Linux?,iPod only
+55,Dorm,Alltel,very long,Visa,None,3.8,none,two,one,New,Somewhat good,somewhat liberal,Not religious,Slight,Occasionally,Campus store,YES,Somewhat agree,Always,Windows,Yes,iPod only
+56,Dorm,T-Mobile,short,Visa,Low,3,moderate,two,three,New,Good,conservative,Not religious,Fluent,Occasionally,Campus store,NO,Strongly Agree,Always,Windows,No,iPod only
+57,Dorm,Cingular,average,Visa,Very high ,3.2,none,four,two,Old,Good,somewhat conservative,somewhat religious,Slight,Occasionally,Campus store,NO,Disagree,Always,Windows,No,iPod only
+58,Solo Apt,Verizon,short,Visa,Very high ,3.67,moderate,two,two,Fairly old,Good,conservative,Not religious,None,Regularly,Campus store,NO,Disagree,Always,Windows,Yes,iPod only
+59,Parents,Verizon,long ,Visa,Moderate,3.5,long,three,five ,Very new,Good,very conservative,very religious,None,Regularly,Campus store,NO,Somewhat agree,Always,Windows,No,Neither
+60,Dorm,Nextel,short,None,None,3.67,long,three,four,Very Old,Good,neither,very religious,Slight,Never,On-line,NO,Neither,Always,Windows,What's Linux?,Neither
+61,Parents,T-Mobile,long ,Visa,High ,2.9,long,one,one,Very Old,Good,somewhat liberal,Not religious,None,Regularly,Campus store,NO,Disagree,Always,Mac,Yes,MP3 only
+62,Parents,Sprint,very long,Discover,Very high ,3,long,three,four,Very new,Good,neither,Not religious,Slight,Occasionally,Campus store,NO,Somehwhat agree,Often,Windows,No,iPod only
+63,Share Apt,Verizon,average,Visa,Moderate,3.3,none,two,two,New,Somewhat good,liberal,Not religious,Moderate,Occasionally,Campus store,NO,Somehwhat agree,Always,Windows,No,iPod only
+64,Solo Apt,Verizon,very long,Amex,Very high ,2.74,long,two,four,New,Good,neither,Not religious,Slight,Never,Other retail,NO,Somehwhat agree,Always,Windows,No,iPod only
+65,Solo Apt,Verizon,short,Visa,Very high ,3.4,none,three,one,New,Very good,somewhat conservative,religious,Slight,Occasionally,Campus store,YES,Strongly Agree,Always,Windows,No,iPod only
+66,Parents,Virgin,short,Visa,None,3,none,three,three,New,Good,somewhat conservative,very religious,None,Occasionally,Campus store,NO,Disagree,Never,Windows,No,Neither
+67,Parents,Nextel,short,Visa,Very high ,3.67,none,two,four,New,Good,very conservative,somewhat religious,Moderate,Occasionally,On-line,NO,Disagree,Never,Windows,What's Linux?,Neither
+68,Share Apt,Verizon,very long,Visa,High ,3.8,long,three,three,Fairly old,Somewhat bad,somewhat conservative,very religious,Moderate,Occasionally,Other retail,YES,Agree,Always,Windows,What's Linux?,Neither
+69,Parents,Cingular,long ,Visa,Moderate,3.4,long,three,three,Very Old,Very good,somewhat conservative,Not religious,Fluent,Never,Campus store,NO,Somehwhat agree,Never,Windows,What's Linux?,iPod only
+70,Parents,Verizon,long ,Mastercard,High ,3.35,long,two,one,Very new,Bad,somewhat liberal,somewhat religious,None,Occasionally,Other student,NO,Neither,Never,Windows,No,Neither
+71,Parents,Cingular,short,Visa,Very high ,3.09,moderate,two,one,New,Good,liberal,religious,None,Occasionally,Other retail,NO,Strongly Agree,Never,Windows,No,iPod only
+72,Share Apt,Verizon,short,Mastercard,None,3.2,long,three,two,Old,Good,conservative,somewhat religious,Slight,Regularly,On-line,NO,Somewhat agree,Never,Windows,No,MP3 only
+73,Dorm,Cingular,long ,Visa,High ,2.85,none,two,two,Very new,Good,neither,Not religious,Fluent,Occasionally,Other retail,YES,Somehwhat agree,Often,Windows,What's Linux?,iPod only
+74,Dorm,Verizon,very long,Visa,Moderate,3.4,none,two,two,Fairly new,Somewhat good,conservative,somewhat religious,Moderate,Occasionally,Campus store,NO,Strongly Agree,Always,Windows,What's Linux?,iPod only
+75,Dorm,Cingular,short,Visa,High ,2.76,none,three,four,Old,Good,neither,somewhat religious,Slight,Occasionally,Other retail,YES,Strongly Agree,Always,Windows,What's Linux?,iPod only
+76,Dorm,T-Mobile,short,Visa,Moderate,3.95,none,two,two,Old,Good,somewhat conservative,very religious,Fluent,Occasionally,Campus store,NO,Disagree,Always,Windows,What's Linux?,iPod only
+77,Dorm,Verizon,very long,Visa,Very high ,2.8,none,three,three,Very new,Somewhat good,neither,somewhat religious,Slight,Occasionally,Campus store,NO,Somehwhat agree,Always,Mac,No,iPod only
+78,Share Apt,Cingular,average,Mastercard,Low,3.15,none,two,three,Very Old,Good,neither,somewhat religious,Moderate,Occasionally,Campus store,NO,Agree,Always,Windows,No,iPod only
+79,Dorm,Verizon,very long,Visa,High ,3.4,none,two,two,Very new,Good,liberal,Not religious,None,Never,Campus store,NO,Neither,Never,Mac,What's Linux?,iPod only
+80,Dorm,Verizon,average,Visa,Low,4,short,two,two,Very Old,Good,somewhat liberal,Not religious,Fluent,Regularly,On-line,NO,Strongly Agree,Always,Windows,No,iPod only
+81,Share Apt,T-Mobile,long ,Visa,None,3.56,long,two,two,Very Old,Good,somewhat liberal,religious,Fluent,Never,Campus store,NO,Somehwhat agree,Always,Windows,What's Linux?,Both
+82,Dorm,T-Mobile,very long,Visa,High ,2.9,moderate,four,four,Fairly new,Somewhat good,neither,somewhat religious,Slight,Occasionally,On-line,YES,Agree,Always,Windows,No,iPod only
+83,Dorm,Cingular,average,Visa,Moderate,2.531,short,four,three,Fairly new,Very good,liberal,very religious,Slight,Occasionally,Campus store,NO,Strongly Agree,Often,Mac,What's Linux?,iPod only
+84,Dorm,Cingular,very long,Visa,Very high ,3.862,none,two,two,New,Somewhat good,somewhat liberal,Not religious,Moderate,Occasionally,Campus store,NO,Strongly Agree,Always,Mac,What's Linux?,iPod only
+85,Dorm,T-Mobile,short,None,None,3.4,moderate,two,two,Very Old,Somewhat good,liberal,Not religious,Fluent,Occasionally,On-line,YES,Somewhat agree,Always,Windows,No,Both
+86,Share Apt,Verizon,long ,Visa,High ,3.2,none,three,three,New,Good,somewhat liberal,somewhat religious,Slight,Occasionally,Campus store,NO,Somewhat agree,Always,Mac,No,iPod only
+87,Dorm,Sprint,average,Visa,Very high ,3.6,none,three,three,Very new,Good,neither,somewhat religious,None,Occasionally,Campus store,NO,Somewhat agree,Always,Windows,No,iPod only
+88,Share Apt,Verizon,long ,Visa,Moderate,3.5,none,two,two,Old,Good,somewhat conservative,Not religious,Slight,Occasionally,Campus store,NO,Neither,Never,Windows,No,iPod only
+89,Parents,T-Mobile,very short,Visa,High ,2.45,long,three,three,Fairly old,Very good,liberal,somewhat religious,Fluent,Occasionally,Other retail,NO,Somehwhat agree,Often,Windows,No,Neither
+90,Dorm,Verizon,average,Visa,Moderate,3.8,none,three,three,Old,Very good,neither,very religious,Slight,Occasionally,Campus store,NO,Strongly Agree,Always,Windows,What's Linux?,iPod only
+91,Dorm,Cingular,very long,Mastercard,Moderate,3.29,none,two,one,Very Old,Good,neither,very religious,Slight,Never,On-line,NO,Somewhat agree,Always,Windows,Yes,iPod only
+92,Share Apt,Sprint,long ,Mastercard,None,3.9,none,two,three,Very new,Good,neither,Not religious,Fluent,Occasionally,On-line,NO,Somewhat agree,Always,Windows,Yes,MP3 only
+93,Dorm,Cingular,long ,Visa,None,3,none,two,two,Fairly old,Somewhat good,somewhat liberal,religious,Moderate,Occasionally,Other retail,NO,Somehwhat agree,Always,Windows,No,iPod only
+94,Dorm,Cingular,very short,Mastercard,Low,3.1,none,two,two,Very Old,Good,neither,Not religious,Slight,Never,Campus store,NO,Somehwhat agree,Always,Windows,No,iPod only
+95,Dorm,Cingular,long ,Visa,Moderate,3.65,moderate,two,two,Old,Good,liberal,very religious,Fluent,Occasionally,On-line,NO,Disagree,Always,Windows,What's Linux?,Neither
+96,Parents,Sprint,very long,Visa,Very high ,2.8,moderate,two,two,New,Good,liberal,Not religious,Slight,Never,Campus store,NO,Disagree,Often,Windows,No,Neither
+97,Dorm,Cingular,very long,Visa,Very high ,3.4,none,three,one,Fairly new,Good,somewhat conservative,somewhat religious,Slight,Never,Campus store,NO,Somehwhat agree,Always,Mac,What's Linux?,iPod only
+98,Dorm,Cingular,average,Mastercard,High ,3.2,moderate,two,two,Very Old,Good,conservative,religious,Slight,Regularly,Campus store,NO,Somehwhat agree,Always,Windows,What's Linux?,Neither
+99,Dorm,Other,long ,Visa,High ,3,moderate,three,four,Very Old,Good,somewhat conservative,Not religious,Slight,Occasionally,On-line,NO,Disagree,Always,Windows,What's Linux?,iPod only
+100,Dorm,Sprint,very long,Visa,Very high ,3.2,long,two,three,Fairly new,Good,somewhat liberal,very religious,Moderate,Regularly,Campus store,NO,Disagree,Always,Windows,What's Linux?,Both
+101,Dorm,Cingular,average,Visa,Moderate,2,none,two,two,New,Good,conservative,religious,Slight,Occasionally,Campus store,NO,Neither,Always,Windows,No,iPod only
+102,Parents,Verizon,average,Amex,Low,3.85,long,two,two,Very new,Good,liberal,somewhat religious,Fluent,Occasionally,Campus store,NO,Disagree,Always,Windows,Yes,MP3 only
+103,Share Apt,Cingular,very long,Visa,Very high ,3.3,long,two,three,Old,Good,liberal,Not religious,Moderate,Occasionally,Campus store,NO,Strongly Agree,Always,Windows,What's Linux?,iPod only
+104,Dorm,Cingular,average,Visa,Moderate,3.9,moderate,three,three,Very Old,Good,conservative,very religious,Moderate,Occasionally,Other retail,NO,Disagree,Always,Windows,What's Linux?,iPod only
+105,Dorm,Verizon,long ,Amex,High ,3.75,moderate,two,two,Very Old,Good,somewhat conservative,somewhat religious,Moderate,Occasionally,Other student,NO,Disagree,Always,Windows,No,iPod only
+106,Dorm,Cingular,average,Visa,High ,2.88,none,two,two,Very new,Good,neither,religious,Moderate,Occasionally,Campus store,NO,Disagree,Always,Mac,Yes,Both
+107,Dorm,Verizon,average,Visa,Low,2.85,none,two,two,Fairly old,Somewhat good,somewhat liberal,Not religious,Slight,Never,Campus store,NO,Somehwhat agree,Always,Windows,No,iPod only
+108,Dorm,Sprint,short,Visa,Moderate,2.99,moderate,three,three,Very Old,Somewhat good,neither,religious,Moderate,Occasionally,On-line,NO,Disagree,Always,Windows,No,Both
+109,Share Apt,Verizon,very long,Mastercard,High ,2,short,three,three,Old,Neither,somewhat liberal,religious,Moderate,Occasionally,Other retail,NO,Strongly Agree,Always,Windows,Yes,iPod only
+110,Share Apt,T-Mobile,long ,Visa,High ,3.47,moderate,two,two,Very Old,Good,neither,somewhat religious,Moderate,Occasionally,On-line,YES,Somewhat agree,Always,Windows,What's Linux?,iPod only
+111,Parents,Verizon,short,Visa,Low,3.96,none,three,four,Very Old,Somewhat good,liberal,Not religious,Slight,Occasionally,Other retail,YES,Neither,Often,Windows,What's Linux?,MP3 only
+112,Dorm,Verizon,short,Visa,High ,2.6,none,three,two,Old,Good,somewhat conservative,very religious,Slight,Never,Campus store,YES,Somewhat agree,Always,Windows,What's Linux?,iPod only
+113,Parents,Cingular,long ,Mastercard,High ,3,long,two,one,Fairly new,Somewhat good,somewhat liberal,somewhat religious,Fluent,Occasionally,Other student,NO,Somewhat agree,Rarely,Windows,No,MP3 only
+114,Share Apt,Cingular,long ,Visa,High ,3.6,none,three,one,Old,Good,conservative,very religious,Moderate,Never,Campus store,NO,Disagree,Always,Windows,No,iPod only
+115,Parents,T-Mobile,long ,Amex,High ,3.03,long,three,two,Fairly new,Somewhat good,neither,somewhat religious,Fluent,Occasionally,Campus store,NO,Neither,Never,Windows,No,iPod only
+116,Parents,Cingular,average,Mastercard,Moderate,2.8,moderate,three,two,New,Very good,somewhat liberal,Not religious,Slight,Regularly,Campus store,YES,Strongly Agree,Never,Windows,No,Neither
+117,Share Apt,Cingular,short,Mastercard,None,3.6,moderate,three,four,Very new,Neither,very conservative,very religious,Slight,Occasionally,Campus store,NO,Somehwhat agree,Always,Windows,Yes,Both
+118,Solo Apt,Sprint,average,Visa,Low,3,long,two,two,Very new,Neither,somewhat conservative,very religious,Fluent,Occasionally,Other retail,YES,Somehwhat agree,Often,Windows,No,Neither
+119,Parents,Verizon,short,Mastercard,Moderate,3.55,none,two,two,Very new,Good,conservative,very religious,Slight,Regularly,Campus store,YES,Neither,Always,Windows,No,Both
+120,Parents,Verizon,short,Mastercard,Moderate,3.02,long,three,four,New,Good,very conservative,very religious,Slight,Occasionally,On-line,YES,Strongly Agree,Rarely,Windows,What's Linux?,Neither
+121,Parents,Verizon,average,Visa,Very high ,3.2,moderate,two,three,New,Good,neither,very religious,Slight,Occasionally,Campus store,NO,Strongly Agree,Always,Windows,What's Linux?,Both
+122,Parents,Sprint,very long,Visa,Very high ,3.5,long,two,two,Fairly new,Somewhat good,conservative,very religious,Moderate,Occasionally,Campus store,NO,Neither,Rarely,Windows,What's Linux?,iPod only
+123,Parents,Cingular,long ,Mastercard,High ,3.72,moderate,two,four,Very new,Somewhat good,somewhat liberal,somewhat religious,Moderate,Regularly,Campus store,YES,Strongly Agree,Often,Windows,No,MP3 only
+124,Parents,Verizon,very long,Visa,Moderate,2.67,moderate,two,three,Old,Good,somewhat liberal,religious,None,Occasionally,On-line,YES,Disagree,Always,Windows,No,Neither
+125,Solo Apt,Cingular,long ,Mastercard,Very high ,3.5,long,one,three,Very new,Somewhat good,neither,Not religious,Moderate,Occasionally,Campus store,NO,Somehwhat agree,Always,Mac,No,iPod only
+126,Parents,Sprint,very short,Visa,High ,2.56,long,two,three,Very new,Somewhat good,somewhat conservative,religious,Slight,Occasionally,Campus store,NO,Agree,Never,Windows,What's Linux?,Neither
+127,Parents,Verizon,very long,Visa,High ,2.7,long,two,two,Very new,Neither,neither,somewhat religious,Slight,Occasionally,Campus store,NO,Disagree,Often,Windows,What's Linux?,MP3 only
+128,Parents,Verizon,very long,Visa,High ,3.9,long,three,three,New,Good,conservative,religious,Moderate,Never,On-line,YES,Neither,Always,Windows,What's Linux?,iPod only
+129,Parents,Verizon,average,Visa,Moderate,2.2,long,three,two,Fairly old,Good,conservative,Not religious,Slight,Occasionally,No book,NO,Disagree,Never,Windows,What's Linux?,iPod only
+130,Parents,Cingular,average,Mastercard,Low,3,long,three,four,New,Good,very conservative,very religious,Slight,Occasionally,Campus store,YES,Agree,Always,Windows,No,MP3 only
+131,Share Apt,Nextel,very long,Visa,None,3.3,none,two,two,Old,Neither,somewhat liberal,religious,Slight,Occasionally,On-line,YES,Neither,Often,Windows,No,MP3 only
+132,Share Apt,Verizon,short,None,Very high ,2.8,long,two,four,Old,Neither,very conservative,Not religious,Slight,Regularly,Other student,NO,Somewhat agree,Always,Windows,Yes,MP3 only
+133,Solo Apt,T-Mobile,short,Visa,Very high ,3.68,moderate,two,four,Fairly old,Neither,somewhat liberal,Not religious,Slight,Occasionally,Campus store,NO,Somehwhat agree,Never,Windows,What's Linux?,iPod only
+134,Parents,Sprint,average,Visa,Very high ,2.61,long,three,three,Old,Good,somewhat liberal,religious,Moderate,Regularly,On-line,NO,Somewhat agree,Always,Windows,No,iPod only
+135,Parents,T-Mobile,average,Mastercard,None,2.7,long,two,three,Old,Somewhat good,somewhat liberal,religious,Fluent,Never,Campus store,NO,Strongly Agree,Always,Windows,No,MP3 only
+136,Parents,Cingular,average,Visa,Very high ,3.6,none,two,two,New,Very good,somewhat liberal,Not religious,None,Never,On-line,NO,Disagree,Always,Windows,No,iPod only
+137,Dorm,T-Mobile,long ,Mastercard,Moderate,2.5,moderate,four,three,Very Old,Somewhat good,neither,somewhat religious,Slight,Occasionally,Campus store,NO,Strongly Agree,Always,Windows,No,Neither
+138,Parents,Cingular,very long,Visa,Very high ,3.92,moderate,two,one,Fairly new,Good,liberal,Not religious,Fluent,Occasionally,On-line,NO,Somewhat agree,Always,Windows,What's Linux?,iPod only
+139,Share Apt,Nextel,very long,Visa,Moderate,3,long,three,three,Old,Neither,liberal,Not religious,Fluent,Occasionally,Campus store,YES,Neither,Never,Windows,What's Linux?,iPod only
+140,Parents,Verizon,very long,Visa,Low,3.34,long,two,four,Fairly old,Good,liberal,very religious,Fluent,Occasionally,On-line,NO,Somewhat agree,Never,Windows,No,MP3 only
+141,Parents,Cingular,average,Visa,Low,3.4,long,three,five ,Very new,Good,neither,religious,Slight,Occasionally,Campus store,NO,Agree,Never,Windows,No,MP3 only
+142,Parents,Verizon,short,Visa,Very high ,2.5,long,two,three,Fairly new,Somewhat good,somewhat liberal,somewhat religious,Slight,Occasionally,Campus store,NO,Neither,Never,Windows,Yes,iPod only
+143,Parents,Sprint,long ,Visa,High ,3.15,long,two,two,Old,Good,liberal,Not religious,None,Occasionally,Campus store,YES,Neither,Rarely,Windows,No,iPod only
+144,Parents,Verizon,very short,Visa,High ,3.58,moderate,two,two,Fairly new,Good,neither,Not religious,Moderate,Occasionally,Campus store,YES,Agree,Never,Windows,No,MP3 only
+145,Parents,T-Mobile,very long,Visa,Moderate,3.81,long,two,two,Very new,Bad,somewhat liberal,very religious,Slight,Never,Campus store,NO,Disagree,Always,Windows,No,iPod only
+146,Parents,Nextel,average,Visa,High ,3.2,long,three,three,Fairly new,Very good,neither,religious,Slight,Occasionally,Campus store,NO,Agree,Always,Windows,No,iPod only
+147,Parents,Verizon,average,Mastercard,Low,2.8,moderate,two,two,Fairly old,Very good,neither,very religious,Slight,Regularly,Other retail,YES,Strongly Agree,Always,Mac,Yes,iPod only
+148,Parents,Verizon,very long,Visa,Very high ,3.23,moderate,two,two,Fairly new,Good,somewhat liberal,very religious,Slight,Occasionally,Campus store,NO,Somehwhat agree,Never,Windows,No,Neither
+149,Parents,T-Mobile,very long,Visa,Very high ,2.86,long,two,two,Fairly new,Neither,somewhat liberal,Not religious,Fluent,Occasionally,On-line,YES,Neither,Always,Windows,What's Linux?,iPod only
+150,Share Apt,Verizon,very long,Visa,Very high ,2.4,long,two,two,Fairly new,Very good,neither,very religious,None,Occasionally,On-line,NO,Strongly Agree,Never,Windows,No,MP3 only
